@@ -1,0 +1,20 @@
+[
+  {
+    "id": 101,
+    "firstName": "Edwin",
+    "lastName": "Martinson",
+    "email": "edwinotumartinson@outlook.com",
+    "contact": "0242430112",
+    "country": "🇬🇭 Ghana",
+    "status": "ACTIVE"
+  },
+  {
+    "id": 102,
+    "firstName": "Heylow",
+    "lastName": "There",
+    "email": "heylowThere@outlook.com",
+    "contact": "0233445566",
+    "country": "🇬🇭 Ghana",
+    "status": "INACTIVE"
+  }
+]
