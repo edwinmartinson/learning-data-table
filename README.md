@@ -1,3 +1,5 @@
-# React + TypeScript + Vite + shadcn/ui
+# Member List: Tanstack Table
 
-This is a template for a new Vite project with React, TypeScript, and shadcn/ui.
+A simple data table built with React, TypeScript, and Tanstack Table
+
+![Taskify App Screenshot](public/screenshot.png)
