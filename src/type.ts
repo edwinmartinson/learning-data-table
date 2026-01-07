@@ -5,6 +5,6 @@ export type User = {
   dob: string;
   email: string;
   phoneNo: string;
-  counrtyCode: string;
+  countryCode: string;
   status: "ACTIVE" | "INACTIVE";
 };

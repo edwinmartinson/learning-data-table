@@ -14,7 +14,7 @@ export function createRandomUser(): User {
       .toLocaleDateString(),
     email: faker.internet.email({ firstName, lastName }),
     phoneNo: faker.phone.number({ style: "international" }),
-    counrtyCode: faker.location.countryCode({ variant: "alpha-2" }),
+    countryCode: faker.location.countryCode({ variant: "alpha-2" }),
     status: faker.helpers.arrayElement(["ACTIVE", "INACTIVE"]),
   };
 }
