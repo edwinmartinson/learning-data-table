@@ -2,4 +2,6 @@
 
 A simple data table built with React, TypeScript, Tanstack Table and AG Grid
 
-![Taskify App Screenshot](public/screenshot.png)
+![Taskify App Screenshot](public/screenshot-a.png)
+
+![Taskify App Screenshot](public/screenshot-b.png)
